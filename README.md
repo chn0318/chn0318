@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Haonan Chen.
 
-- ✏️ I’m a undergraduate students in Shanghai Jiao Tong University, majoring in Computer Science and Technology.
+- ✏️ I’m an undergraduate students in Shanghai Jiao Tong University, majoring in Computer Science and Technology.
 - 📜 Areas of interest: Computer network architecture, Internet of Things, Edge computing...
 - ⛪ I’m currently living in Shanghai. 
 - 🌱 I’m currently learning RDMA (Remote Direct Memory Access).
