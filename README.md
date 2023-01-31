@@ -9,3 +9,4 @@
 - ⚽ Hobby: I am an avid supporter of Atletico Madrid football club.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chn0318&theme=dark&layout=compact)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=chn0318&show_icons=true&theme=dark&count_private=true)
